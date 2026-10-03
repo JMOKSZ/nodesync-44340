@@ -1,0 +1,4 @@
+[project]
+name = "h9nodesync"
+version = "1.0.0"
+description = "sync"
